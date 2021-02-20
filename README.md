@@ -1,14 +1,14 @@
-JSON_NAVIGATION
+## JSON_NAVIGATION
 
 Module is created for searching through the JSON file.
 
-Main files
+## Main files
 
 This project contains one module:
 - json_navigator.py - its goal is to navigate user on given json file.
 friends.json -- database
 
-How does it work?
+## How does it work?
 
 User enters the path to file in main module. After running program, the user
 gets some options to navigate through file:
